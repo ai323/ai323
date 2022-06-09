@@ -2,7 +2,7 @@
 - 👀 I’m interested in tech, finance, music and basketball
 - 🌱 I’m currently learning Deep Learning, DeFi
 - 💞️ I’m looking to collaborate on DeFi applications
-- 📫 How to reach me yuyan.zhou.2010@maf.smu.edu.sg
+- 📫 How to reach me ???
 
 <!---
 ai323/ai323 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
